@@ -1,0 +1,9 @@
+logging:
+  level:
+    com:
+      Main:
+        service: INFO
+    org:
+      springframework:
+        web: DEBUG
+    root: WARN
